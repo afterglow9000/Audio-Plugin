@@ -1,0 +1,14 @@
+﻿  PluginEditor.cpp
+  PluginProcessor.cpp
+c:\users\bbuen\source\repos\audioplugin\source\plugineditor.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(82): warning C4100: 'index': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\plugineditor.cpp(56): warning C4100: 'slider': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(86): warning C4100: 'index': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(91): warning C4100: 'newName': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(91): warning C4100: 'index': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(96): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(96): warning C4100: 'sampleRate': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(175): warning C4100: 'destData': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(182): warning C4100: 'sizeInBytes': unreferenced formal parameter
+c:\users\bbuen\source\repos\audioplugin\source\pluginprocessor.cpp(182): warning C4100: 'data': unreferenced formal parameter
+  AudioPlugin_SharedCode.vcxproj -> C:\Users\bbuen\source\repos\AudioPlugin\Builds\VisualStudio2017\x64\Debug\Shared Code\AudioPlugin.lib
