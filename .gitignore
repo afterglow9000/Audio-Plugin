@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Builds/VisualStudio2017/.vs/AudioPlugin/v15/Browse.VC.db
+/Builds/VisualStudio2017/.vs/AudioPlugin/v15/Browse.VC.opendb
+/Builds/VisualStudio2017/.vs/AudioPlugin/v15/ipch/AutoPCH/809965a958a65843/PLUGINEDITOR.ipch
+/Builds/VisualStudio2017/.vs/AudioPlugin/v15/ipch/AutoPCH/c37bd6fcee8a7d74/PLUGINPROCESSOR.ipch
